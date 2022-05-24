@@ -1,0 +1,16 @@
+{
+  "name": "rsocket-js-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rsocket-core": "^1.0.0-alpha.1",
+    "rsocket-websocket-client": "^1.0.0-alpha.1",
+    "ws": "^8.6.0"
+  }
+}
